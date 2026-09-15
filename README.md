@@ -40,12 +40,6 @@ await Helper.chat.archive(sock, chatJid);
 
 Prefer **`@lid`** for participant JIDs where possible.
 
-If a method is missing on your Baileys build:
-
-```text
-schwamm-helper: sock.<method> is not available on this Baileys build
-```
-
 ---
 
 ## Group — `Helper.group`
