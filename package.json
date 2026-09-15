@@ -1,0 +1,23 @@
+{
+  "name": "schwamm-helper",
+  "version": "1.0.4",
+  "description": "Socket helpers for Baileys – groups, channels, communities, accounts, chats",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "@whiskeysockets/baileys": "*"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "group",
+    "channel",
+    "communities",
+    "account",
+    "chat",
+    "helper"
+  ]
+}
