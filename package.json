@@ -1,6 +1,6 @@
 {
   "name": "schwamm-helper",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Socket helpers for Baileys – groups, channels, communities, accounts, chats",
   "main": "index.js",
   "license": "MIT",
